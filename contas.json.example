@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "Conta Exemplo": {
+            "transacoes": [
+                {
+                    "descricao": "Salário",
+                    "valor": 1000,
+                    "categoria": "Salário",
+                    "data": "2025-01-01 09:00:00"
+                }
+            ]
+        }
+    }
+}

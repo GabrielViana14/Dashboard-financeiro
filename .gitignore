@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos compilados Python
+__pycache__/
+*.pyc
+
+# Dados sensíveis
+hashed_senhas.pkl
+contas.json
+orcamento_limites.json
+
+# IDEs
+.vscode/
