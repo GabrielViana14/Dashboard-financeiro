@@ -48,7 +48,7 @@ dashboard-financeiro/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/dashboard-financeiro.git
+git clone https://github.com/GabrielViana14/Dashboard-financeiro
 cd dashboard-financeiro
 ```
 
